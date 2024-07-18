@@ -7,9 +7,9 @@ import (
 
 	"os"
 
-	"github.com/juruen/rmapi/archive"
-	"github.com/juruen/rmapi/encoding/rm"
-	"github.com/juruen/rmapi/log"
+	"github.com/grahamgreen/rmapi/archive"
+	"github.com/grahamgreen/rmapi/encoding/rm"
+	"github.com/grahamgreen/rmapi/log"
 	"github.com/unidoc/unipdf/v3/annotator"
 	"github.com/unidoc/unipdf/v3/contentstream"
 	"github.com/unidoc/unipdf/v3/contentstream/draw"

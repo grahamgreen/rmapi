@@ -3,7 +3,7 @@ package filetree
 import (
 	"path"
 
-	"github.com/juruen/rmapi/model"
+	"github.com/grahamgreen/rmapi/model"
 )
 
 const (

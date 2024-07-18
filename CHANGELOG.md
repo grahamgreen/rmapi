@@ -2,9 +2,9 @@
 
 ## rmapi 0.0.24 (December 30, 2022)
 
-- Make sure Windows binaries have an exe extension (@juruen)
+- Make sure Windows binaries have an exe extension (@grahamgreen)
 
-- Use go 1.19 (@juruen)
+- Use go 1.19 (@grahamgreen)
 
 ## rmapi 0.0.23 (December 01, 2022)
 
@@ -99,7 +99,7 @@
 
 * Use nested config dir under XDG (@jebw)
 
-* Bump go verison to 1.15 (@juruen)
+* Bump go verison to 1.15 (@grahamgreen)
 
 ## rmapi 0.0.12 (June 18, 2020)
 

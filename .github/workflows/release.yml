@@ -24,7 +24,7 @@ jobs:
       - run: echo "VERSION=`echo $(git describe --tags)`" >> $GITHUB_ENV
 
       - name: Build Linux binary
-        run: go build -v -ldflags "-X 'github.com/juruen/rmapi/version.Version=${{ env.VERSION }}'" -o rmapi .
+        run: go build -v -ldflags "-X 'github.com/grahamgreen/rmapi/version.Version=${{ env.VERSION }}'" -o rmapi .
         
 
       - name: Create tar

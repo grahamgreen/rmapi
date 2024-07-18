@@ -8,7 +8,7 @@ import (
 	"path"
 	"sort"
 
-	"github.com/juruen/rmapi/log"
+	"github.com/grahamgreen/rmapi/log"
 )
 
 func HashEntries(entries []*Entry) (string, error) {

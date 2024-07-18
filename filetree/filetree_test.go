@@ -3,7 +3,7 @@ package filetree
 import (
 	"testing"
 
-	"github.com/juruen/rmapi/model"
+	"github.com/grahamgreen/rmapi/model"
 	"github.com/stretchr/testify/assert"
 )
 

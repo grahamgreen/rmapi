@@ -1,8 +1,8 @@
 # rMAPI
 
-*Note: rMAPI is effectiviely unmaintaied at this point, and this repo will be archived in the next few weeks. Please see [this discussion for more info](https://github.com/juruen/rmapi/discussions/313).*
+*Note: rMAPI is effectiviely unmaintaied at this point, and this repo will be archived in the next few weeks. Please see [this discussion for more info](https://github.com/grahamgreen/rmapi/discussions/313).*
 
-[![Actions Status](https://github.com/juruen/rmapi/workflows/Go/badge.svg)](https://github.com/juruen/rmapi/actions)
+[![Actions Status](https://github.com/grahamgreen/rmapi/workflows/Go/badge.svg)](https://github.com/grahamgreen/rmapi/actions)
 
 
 
@@ -44,14 +44,14 @@ support for the new protocol is experimental, and you should make sure you have 
 Install and build the project:
 
 ```
-git clone https://github.com/juruen/rmapi
+git clone https://github.com/grahamgreen/rmapi
 cd rmapi
 go install
 ```
 
 ## Binary
 
-You can download an already built version for either Linux or OSX from [releases](https://github.com/juruen/rmapi/releases).
+You can download an already built version for either Linux or OSX from [releases](https://github.com/grahamgreen/rmapi/releases).
 
 ## Docker
 

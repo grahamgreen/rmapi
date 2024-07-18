@@ -2,7 +2,7 @@
 
 This projects leverages GitHub Actions to automate the release process.
 
-It uses [release.yml](https://github.com/juruen/rmapi/blob/master/.github/workflows/release.yml)
+It uses [release.yml](https://github.com/grahamgreen/rmapi/blob/master/.github/workflows/release.yml)
 to automatically build a new release and upload its assets when a new tag starting with `v`
 is pushed to the repository.
 
